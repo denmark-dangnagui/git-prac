@@ -8,3 +8,4 @@
 6. branch를 만들 때는 git branch [이름] 사용!
 7. branch로 갈 때는 git switch [이름] 사용!
 8. main branch 에는 영향이 없음!
+9. merge 하려면 하위 브랜치가 아니라 메인 브렌치에서 진행해야됨
