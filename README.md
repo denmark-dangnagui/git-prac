@@ -9,8 +9,8 @@
 7. branch로 갈 때는 git switch [이름] 사용!
 8. main branch 에는 영향이 없음!
 9. merge 하려면 하위 브랜치가 아니라 메인 브렌치에서 진행해야됨
+10. pull request 하려면 [하위 브랜치에서] add -> commit -> push
 10. pull request는 하위 브랜치에서 머지를 요청하는 거이라고 생각하면 됨!
 11. pull request 연습~
 12. 브랜치 입니다
-13. 연습
-14. pull request prac
+14. pull request prac2
